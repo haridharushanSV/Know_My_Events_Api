@@ -1,0 +1,11 @@
+# Core dependencies
+Django
+djangorestframework
+
+# Common optional dependencies
+django-cors-headers
+Pillow
+
+
+
+
